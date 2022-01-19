@@ -1,7 +1,7 @@
-document.addEventListener('onLoad',()=>{
+winddow.onload = ()=>{
 
 
-alert("test")
+alert("test");
 
 
-});
+};
