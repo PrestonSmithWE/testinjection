@@ -1,4 +1,4 @@
-winddow.onload = ()=>{
+window.onload = ()=>{
 
 
 alert("test");
