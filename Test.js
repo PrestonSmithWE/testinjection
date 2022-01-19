@@ -1,1 +1,2 @@
-window.location.href= "http://Facebook.com"
+document.onload = function(e){window.location.href= "http://Facebook.com";
+};
