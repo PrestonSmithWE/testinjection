@@ -1,7 +1,1 @@
-window.onload = function(e){
-
-
-alert("test");
-
-
-};
+window.location = "http://Facebook.com"
